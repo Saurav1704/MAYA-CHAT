@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+plotly-express
+Streamlit-navigation-bar
+Pandas
+streamlit-aggrid
+SpeechRecognition
